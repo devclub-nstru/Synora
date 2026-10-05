@@ -5,15 +5,8 @@
     {
       "idx": 0,
       "version": "7",
-      "when": 1790620480881,
-      "tag": "0000_stiff_shinko_yamashiro",
-      "breakpoints": true
-    },
-    {
-      "idx": 1,
-      "version": "7",
-      "when": 1791175943629,
-      "tag": "0001_opposite_pet_avengers",
+      "when": 1791187879499,
+      "tag": "0000_furry_skreet",
       "breakpoints": true
     }
   ]

@@ -47,7 +47,6 @@ Synora Team
           border-radius: 10px;
         "
       >
-
         <h1>Welcome to Synora 👋</h1>
 
         <p>Hi ${name},</p>
@@ -92,10 +91,11 @@ Synora Team
           Thanks,<br />
           Synora Team
         </p>
-
       </div>
     `,
   });
+
   console.log("Verification email sent:", info.messageId);
+
   return info;
 };
